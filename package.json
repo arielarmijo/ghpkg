@@ -1,5 +1,5 @@
 {
-  "name": "ghpkg",
+  "name": "@arielarmijo/ghpkg",
   "version": "1.0.0",
   "description": "Test Github Packages",
   "main": "index.js",
